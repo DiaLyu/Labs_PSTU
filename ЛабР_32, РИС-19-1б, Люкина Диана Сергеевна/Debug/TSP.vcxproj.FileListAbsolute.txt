@@ -1,0 +1,2 @@
+C:\Users\Диана\Desktop\IT-lesson\TSP\Debug\TSP.exe
+C:\Users\Диана\Desktop\IT-lesson\TSP\Debug\TSP.pdb

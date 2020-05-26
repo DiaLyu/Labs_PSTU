@@ -1,0 +1,5 @@
+C:\Users\Диана\Desktop\IT-lesson\bankСalculator\Debug\bankСalculator.vcxprojAssemblyReference.cache
+C:\Users\Диана\Desktop\IT-lesson\bankСalculator\Debug\bankСalculator.exe
+C:\Users\Диана\Desktop\IT-lesson\bankСalculator\Debug\bankСalculator.pdb
+C:\Users\Диана\Desktop\IT-lesson\bankСalculator\Debug\bankСalculator.MyForm.resources
+C:\Users\Диана\Desktop\IT-lesson\bankСalculator\Debug\bankСalculator.vcxproj.GenerateResource.cache

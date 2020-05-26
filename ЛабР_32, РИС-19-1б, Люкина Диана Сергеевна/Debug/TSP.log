@@ -1,0 +1,32 @@
+﻿  TSP.cpp
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(292,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(313,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(319,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(350,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(351,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(364,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(376,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(386,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(399,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(448,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(449,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(453,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(454,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(458,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(458,16): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(506,9): warning C4101: p: неиспользованная локальная переменная
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(52): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(97): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(44): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(174): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+C:\Users\Диана\Desktop\IT-lesson\TSP\TSP.cpp(174): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  TSP.vcxproj -> C:\Users\Диана\Desktop\IT-lesson\TSP\Debug\TSP.exe

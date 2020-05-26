@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Диана\Desktop\IT-lesson\bankСalculator\MyForm.h(602,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\bankСalculator\MyForm.h(604,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\bankСalculator\MyForm.h(605,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Диана\Desktop\IT-lesson\bankСalculator\MyForm.h(606,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  bankСalculator.vcxproj -> C:\Users\Диана\Desktop\IT-lesson\bankСalculator\Debug\bankСalculator.exe
